@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Max. :) 👋
 
-Desenvolvedor Front-End talentoso e motivado, com experiência em desenvolvimento de software e foco em criar interfaces de usuário atraentes e eficazes.  [cite_start]Proficiente em HTML, CSS, React, JavaScript, WordPress e PHP,  [cite_start]e com conhecimento em outras linguagens como Python e Java.  [cite_start]Experiente na resolução de problemas e garantia de qualidade (QA), com histórico comprovado de entrega de soluções pontuais. 
+Desenvolvedor Front-End talentoso e motivado, com experiência em desenvolvimento de software e foco em criar interfaces de usuário atraentes e eficazes. Proficiente em HTML, CSS, React, JavaScript, WordPress e PHP, e com conhecimento em outras linguagens como Python e Java. Experiente na resolução de problemas e garantia de qualidade (QA), com histórico comprovado de entrega de soluções pontuais. 
 
 Atualmente, sou Estagiário em Desenvolvimento de Software na ThinkLife e estudante de Análise e Desenvolvimento de Sistemas na FIAP. 
 **Busco crescimento contínuo na área e uma carreira de sucesso, focado em otimização e entrega de soluções de alta qualidade.**
