@@ -34,7 +34,12 @@ Atualmente, sou Estagiário em Desenvolvimento de Software na ThinkLife e estuda
 
 ### 📈 Minhas Estatísticas no GitHub:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rMaxBarros&size_weight=0.5&count_weight=1)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMaxBarros&size_weight=0.5&count_weight=1" alt="Top Languages"/>
+  
+</div>
+
 
 ### 🔗 Conecte-se comigo:
 
