@@ -32,20 +32,20 @@ Atualmente, sou Estagiário em Desenvolvimento de Software na ThinkLife e estuda
   <img align="center" alt="Max-APIs" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
-### 📈 Minhas Estatísticas no GitHub:
+### 🔗 Conecte-se comigo:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMaxBarros&size_weight=0.5&count_weight=1" alt="Top Languages"/>
-  
-</div>
-
-
-### 🔗 Conecte-se comigo:
-
-<div>
-  <a href="https://www.maxbarros.dev/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <div>
+  <a href="https://maxbarros.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/max-barros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rmaxbarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5511913760370" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+  
+</div>
+
+
+
+
+
